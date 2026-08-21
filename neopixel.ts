@@ -2,7 +2,7 @@
  * Well known colors for a NeoPixel strip
  */
 enum NeoPixelColors {
-    //% block="červená"
+    //% block=red
     Red = 0xFF0000,
     //% block=orange
     Orange = 0xFFA500,
